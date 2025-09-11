@@ -1,0 +1,18 @@
+# Don't upload data
+data/
+
+# Ignore Jupyter autosaves
+*.ipynb_checkpoints/
+
+# Ignore big models/artifacts
+models/
+artifacts/
+runs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
