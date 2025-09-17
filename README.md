@@ -8,8 +8,8 @@ Goal: predict which passengers were transported to another dimension.
 - `models/` → (optional) saved trained models
 
 ## Progress
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Baseline model
-- [ ] Feature engineering
-- [ ] Model improvements
-- [ ] Submission
+- [DONE] Exploratory Data Analysis (EDA)
+- [DONE] Baseline model
+- [DONE] Feature engineering
+- [DONE] Model improvements
+- [DONE] Submission
